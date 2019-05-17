@@ -1,6 +1,3 @@
 # gitskills
-Emmmmmmm。。。
 
-hahaha“.
-
-我又添加了一行。
+我全部删了重新写
